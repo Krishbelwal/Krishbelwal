@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Krishna belwal
-**Data Analyst Intern | BCA Graduate | SQL | Excel | Power BI | Python | Turning Data into Actionable Insights. **
+**Data Analyst Intern | BCA Graduate | SQL | Excel | Power BI | Python | Turning Data into Actionable Insights.**
 
 - 📫 **How to reach me:** kbelwal373@gmail.com
 ## 🌐 Socials:
